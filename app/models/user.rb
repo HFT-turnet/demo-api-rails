@@ -1,6 +1,6 @@
 class User < ApplicationRecord
   has_many :entry
-  has_secure_password
+  #has_secure_password
   
   def gettoken
     #puts self.id
