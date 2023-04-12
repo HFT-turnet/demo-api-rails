@@ -1,0 +1,21 @@
+{"settingsdefinition": [
+		{
+			"variable": "set1",
+			"type": "string"
+		},
+		{
+			"variable": "set2",
+			"type": "string"
+		},
+		{
+			"variable": "kpi",
+			"type": "integer"
+		}
+	],
+	"settings":
+			{
+				"set1": "Hello",
+				"set2": "World",
+				"kpi": 2
+			}
+}

@@ -1,4 +1,6 @@
 class Api::V1::EntriesController < ApplicationController
+  before_action :authorize_request
+  
   def index
     @entries=Entry.all
     render json: @entries

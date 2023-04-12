@@ -1,0 +1,40 @@
+{"appcollection": [
+		{
+			"id": "Test1",
+			"group": "Spiele",
+			"kpitrue":0,
+			"value":"",
+			"scale":"",
+			"valuecolor":"",
+			"indicator":"",
+			"unit":"",
+			"icon": "area-chart",
+			"header": "Spiel",
+			"subheader": "Game",
+			"footer":"Coole Spiele",
+			"appname": ""
+		},
+		{
+			"id": "Test4",
+			"group": "Test 2",
+			"kpitrue":1,
+			"value":"",
+			"scale":"M",
+			"valuecolor":"Error",
+			"indicator":"Up",
+			"unit":"",
+			"icon": "",
+			"header": "ffmfmfm",
+			"subheader": "",
+			"footer":"footertext",
+			"appname": ""
+		},
+		{
+			"id": "Tess",
+			"appname": "secondtest"
+		},
+		{
+			"appname": "sampleapp"
+		}
+	]
+}
