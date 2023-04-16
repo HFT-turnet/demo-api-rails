@@ -5,6 +5,7 @@ Rails.application.routes.draw do
         resources :entries
         match 'users/apps', to: 'users#getapps', via: :get
         match 'users/settings', to: 'users#getsettings', via: :get
+        match 'users/settings', to: 'users#getsettings', via: :post
         resources :users
       end
     end
