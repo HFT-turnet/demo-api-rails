@@ -17,7 +17,7 @@ You receive a JSON with some User Data and especially a token that is valid for 
 
 ### CRUD
 The Demo has two objects: "Users" and "Entries", you can perform CRUD operations on them.
-**Server/api/v1/settings**
+**Server/api/v1/users**
 
 ### Provide & Receive settings
 **GET Server/api/v1/settings**
